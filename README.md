@@ -1,2 +1,3 @@
-# manulite
-Manulite is a platform containing practical instructions, technology reviews, and carefully curated collections for solving everyday problems.
+<p align="center">
+  <img src="https://manulite.com/manulite.jpg" alt="Manulite" width="100%">
+</p>
