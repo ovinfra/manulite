@@ -2,7 +2,7 @@
 
 Roadmaps are carefully curated collections of guides and reviews designed to help users achieve specific goals step by step.
 
-<ul>
+<ol>
   <li>
     <b>🖥️ Preparing the Ubuntu Server</b><br>
     A structured roadmap that guides you through the essential steps required to prepare an Ubuntu server for production use.<br>
@@ -10,4 +10,4 @@ Roadmaps are carefully curated collections of guides and reviews designed to hel
   </li>
 
   <br>
-</ul>
+</ol>
