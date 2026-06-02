@@ -4,9 +4,9 @@ Roadmaps are carefully curated collections of guides and reviews designed to hel
 
 <ul>
   <li>
-    <b>🖥️ Ubuntu Server Setup</b><br>
-    From first login to a secure production-ready server.<br>
-    <a href="roadmaps/ubuntu-server-setup.md">Open Roadmap →</a>
+    <b>🖥️ Preparing the Ubuntu Server</b><br>
+    A structured roadmap that guides you through the essential steps required to prepare an Ubuntu server for production use.<br>
+    <a href="roadmaps/preparing-ubuntu-server.md">Open Roadmap →</a>
   </li>
 
   <br>
