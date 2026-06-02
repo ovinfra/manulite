@@ -13,11 +13,15 @@
   Practical guides, technology reviews, and carefully curated collections designed to help users solve everyday technical tasks.
 </p>
 
+<br>
+
 ## What is Manulite?
 
 Manulite is a knowledge base featuring step-by-step guides, reviews, and curated collections designed to help solve real-world tasks. The platform brings together practical content that helps users not only follow instructions, but also understand the underlying concepts and achieve clear, reproducible results.
 
 The main goal of the project is to make knowledge accessible, well-structured, and genuinely useful in practice.
+
+<br>
 
 ## How Content Is Created
 
@@ -31,6 +35,8 @@ All guides and articles on Manulite follow a consistent set of principles:
 
 This approach makes the content suitable both for learning a topic from scratch and for quickly revisiting it when needed.
 
+<br>
+
 ## Available Content
 
 | Content Type | Description                                                                                                                     | Link                                                   |
@@ -39,6 +45,19 @@ This approach makes the content suitable both for learning a topic from scratch 
 | Reviews      | In-depth overviews of software, tools, technologies, and services, focusing on practical use cases, strengths, and limitations. | [Reviews↗](https://manulite.com/reviews)         |
 | Collections  | Carefully curated lists of tools, services, applications, and resources for specific needs and scenarios.                       | [Collections↗](https://manulite.com/collections) |
 |              |                                                                                                                                 |                                                        |
+
+<br>
+
+## Repository Resources
+
+Additional materials available directly in this repository.
+
+| Resource | Description                                                                                    | Link                                  |
+| -------- | ---------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Roadmaps | A structured roadmap that guides you through the essential steps required to prepare an Ubuntu server for production use. | [Browse Roadmaps](roadmaps/README.md) |
+|          |                                                                                                |                                       |
+
+<br>
 
 ## Featured Articles
 
