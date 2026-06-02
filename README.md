@@ -54,7 +54,7 @@ Additional materials available directly in this repository.
 
 | Resource | Description                                                                                    | Link                                  |
 | -------- | ---------------------------------------------------------------------------------------------- | ------------------------------------- |
-| Roadmaps | A structured roadmap that guides you through the essential steps required to prepare an Ubuntu server for production use. | [Browse Roadmaps](roadmaps/README.md) |
+| Roadmaps | A structured roadmap that guides you through the essential steps required to prepare an Ubuntu server for production use. | [Browse Roadmaps](roadmaps/roadmaps.md) |
 |          |                                                                                                |                                       |
 
 <br>
